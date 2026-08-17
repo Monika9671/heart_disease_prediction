@@ -1,4 +1,4 @@
-# heart_disease_prediction
+# Heart_disease_prediction
 
 Heart Disease Prediction is an end-to-end machine learning project that predicts the likelihood of heart disease using patient clinical and medical data. The system analyzes features such as age, gender, chest pain type, blood pressure, cholesterol, ECG results, maximum heart rate, and other health indicators to classify whether a patient is at risk.
 
